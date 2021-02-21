@@ -177,7 +177,7 @@
 	<distributionManagement>
 		<site>
 			<id>shrek</id>
-			<url>scp://kissdavid37@shrek.unideb.hu:2222/home/<eduID>/public_html/${project.artifactId}</url>
+			<url>scp://@shrek.unideb.hu:2222/home/kissdavid37/public_html/${project.artifactId}</url>
 		</site>
 	</distributionManagement>
 </project>
